@@ -1,0 +1,11 @@
++ 1. get tag event
++ 2. add ul
++ 3. add li
++ 4. create function =>  2. add li (row)
+
+
+
+5. create function =>  1. center line li (row) => togle effect  => onkeyup do test
+6.   create function =>  2. delete li (row)
+
++ 7. add validaetion  - min length => 3 - 15 betwen simvol
