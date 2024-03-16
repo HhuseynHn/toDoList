@@ -5,7 +5,11 @@
 
 
 
-5. create function =>  1. center line li (row) => togle effect  => onkeyup do test
-6.   create function =>  2. delete li (row)
++ 5. create function =>  1. center line li (row) => togle effect  => onkeyup do test
++ 6.   create function =>  2. delete li (row)
 
 + 7. add validaetion  - min length => 3 - 15 betwen simvol
+
+
+--  when a remove the row p teg removed from the array
+remove after you can be the same task to the list
